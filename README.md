@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/adi/data.adicu.com.png?branch=travis)](https://travis-ci.org/adi/data.adicu.com)
+
 data.adicu.com
 ---
 
